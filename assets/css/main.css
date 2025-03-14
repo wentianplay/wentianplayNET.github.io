@@ -1,4 +1,4 @@
-@import url(fontawesome-all.min.css);
+'@import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic");
 
 /*
@@ -85,7 +85,7 @@ input, select, textarea {
 	@media screen and (max-width: 480px) {
 
 		html, body {
-			min-width: 360px;
+			min-width: 420gpx;
 		}
 
 	}
