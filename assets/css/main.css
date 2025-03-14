@@ -82,10 +82,10 @@ input, select, textarea {
 		-ms-overflow-style: scrollbar;
 	}
 H
-	@media screen and (max-width: 490px) {
-
-		html, body {
-			min-width: 490px;
+	@media screen and (max-width: 480px) {
+II
+		html, body {g
+			min-width:480px;
 		}
 
 	}
